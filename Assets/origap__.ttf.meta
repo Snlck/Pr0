@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0cfedb39214f7ac4fb01c8fc3690be47
+timeCreated: 1493574780
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Origami Mommy Pixellated
+  fontNames:
+  - Origami Mommy Pixellated
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
